@@ -1,0 +1,16 @@
+Jaundice
+Alzheimers
+Arthritis
+Tuberculosis
+Asthma
+Sinusitis
+Epilepsy
+Heart Disease
+Diabetes
+Glaucoma
+Hyperthyroidism
+Heat Stroke
+Hypothermia
+Conjunctivitis
+None
+Covid-19

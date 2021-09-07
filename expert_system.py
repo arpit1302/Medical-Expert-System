@@ -208,7 +208,7 @@ class Hello(KnowledgeEngine):
 		  Fact(blurred_vision=MATCH.blurred_vision),NOT(Fact(disease=MATCH.disease)),salience = -999)
 
 	def not_matched(self,headache, back_pain, chest_pain, cough, fainting, sore_throat, fatigue, restlessness,low_body_temp ,fever ,sunken_eyes ,nausea ,blurred_vision,swollen_tearyeyes,Tastelessness):
-		print("\nDid not find any disease that matches your exact symptoms")
+		print("\nDid not find any disease that matches your symptoms")
 		lis = [headache, back_pain, chest_pain, cough, fainting, sore_throat, fatigue, restlessness,low_body_temp ,fever ,sunken_eyes ,nausea ,blurred_vision,swollen_tearyeyes,Tastelessness]
 		max_count = 0
 		max_disease = ""
